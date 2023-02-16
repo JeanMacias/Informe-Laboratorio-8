@@ -40,3 +40,4 @@
 
 **8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.**
 
+![image](https://user-images.githubusercontent.com/116774235/219500685-2ae05361-582c-433f-824e-7fec0fdaeb26.png)
