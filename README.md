@@ -41,3 +41,23 @@
 **8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.**
 
 ![image](https://user-images.githubusercontent.com/116774235/219500685-2ae05361-582c-433f-824e-7fec0fdaeb26.png)
+
+**8.5.4. Responda las siguientes preguntas:**
+
+> ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+
+![image](https://user-images.githubusercontent.com/116774235/219511949-6394ac6e-4ea2-4f95-9c30-84ed2c429afd.png)
+
+Abarca 1.37 divisiones por cuadro, es decir, la amplitud de la señal de salida abarca 1.37 cuadros sobre el eje del tiempo (eje horizontal).
+
+> ¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+![image](https://user-images.githubusercontent.com/116774235/219510530-167fce17-df7f-47cc-9d6a-bd7959499392.png)
+
+Está posicionada en un valor de 10 V, lo que significa que cada cuadro del eje del voltaje (eje vertical) tiene un valor de 10 V.
+
+> ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+![image](https://user-images.githubusercontent.com/116774235/219525949-8571357b-4a6f-4b6e-ba15-9f5a394116d5.png)
+
+Abarca 2.73 divisiones por cuadro, es decir, un ciclo completo abarca 2.73 cuadros con respecto al eje del voltaje (eje vertical).
