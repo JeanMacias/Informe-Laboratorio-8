@@ -62,13 +62,13 @@ Abarca 4 divisiones por cuadro.
 
 **8.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
-* **Amplitud de voltaje:**
+> **Amplitud de voltaje:**
 
 ![image](https://user-images.githubusercontent.com/116774235/219670961-c8695f29-8f76-45d8-ab45-c9ab64c2af2f.png)
 
 La amplitud de voltaje es igual al valor pico, que en este caso es 6.85V
 
-* **Periodo:**
+> **Periodo:**
 
 Sabemos que un ciclo abarca 2 cuadros y cada cuadro equivale a 0.2ms = 0.0002s. Entonces:
 
@@ -76,7 +76,7 @@ Sabemos que un ciclo abarca 2 cuadros y cada cuadro equivale a 0.2ms = 0.0002s. 
 
 **8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
 
-* **Frecuencia:**
+> **Frecuencia:**
 
 Sabemos que: F = 1/T, entonces:
 
@@ -98,11 +98,11 @@ El multímetro representa el valor rms.
 
 **8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.**
 
-* **¿Coinciden?**
+> **¿Coinciden?**
 
 No coinciden.
 
-* **¿Por qué?**
+> **¿Por qué?**
 
 Porque el valor medido con el osciloscopio solo representa el valor máximo que proporciona la fuente de voltaje alterna, mientras que el multímetro mide el voltaje rms, es decir, mide el valor del voltaje tomando en cuenta la idea de que la fuente fuera continua.
 
