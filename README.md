@@ -8,13 +8,15 @@
 
 ### **OBJETIVO GENERAL**
 
-
+Determinar las características y el comportamiento de las ondas sinusoidales mediante la implemtentación del circuito propuesto y el uso de un osciloscopio digital.
 
 ### **OBJETIVOS ESPECÍFICOS**
 
-* 
+* Determinar el voltaje pico, voltaje pico a pico, voltaje rms de la onda sinusoidal.
 
-*
+* Determinar el periodo, frecuencia y frecuencia angular.
+
+* Aprender a utilizar un osciloscopio de forma correcta.
 
 # **MARCO TEÓRICO**
 
@@ -106,9 +108,9 @@ Porque el valor medido con el osciloscopio solo representa el valor máximo que 
 
 # **CONCLUSIONES**
 
-*
+* Se logró determinar de manera eficaz los valores de los voltajes, frecuencias y periodos. Todo gracias a la ayuda del simulador Proteus.
 
-*
+* El valor de voltaje propocionado por el osciloscopio no es igual al valor de voltaje medido con un multímetro.
 
 # **BIBLIOGRAFÍA**
 
