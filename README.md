@@ -20,6 +20,8 @@ Determinar las características y el comportamiento de las ondas sinusoidales me
 
 # **MARCO TEÓRICO**
 
+![WhatsApp Image 2023-02-17 at 09 52 46](https://user-images.githubusercontent.com/116774235/219688023-535f9b93-2ba8-45c0-b973-8e92897efee5.jpeg)
+
 # **MATERIAL Y EQUIPO REQUERIDO**
 
 ![image](https://user-images.githubusercontent.com/116774235/219495305-5eb95d96-df85-4e1a-837d-9f8a29687fec.png)
