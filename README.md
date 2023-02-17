@@ -82,7 +82,7 @@ Sabemos que: F = 1/T, entonces:
 
 F = 1/(0.0004) = 2500Hz
 
-* **Frecuencia Angular:**
+> **Frecuencia Angular:**
 
 Sabemos que w = 2πF, entonces:
 
