@@ -90,7 +90,9 @@ w = 15707.96 (rad/s)
 
 **8.5.7. Con el multímetro digital mida el voltaje de salida en RL**
 
+![image](https://user-images.githubusercontent.com/116774235/219675539-e9acd576-b2c2-403d-a40e-4e800b164d56.png)
 
+El multímetro representa el valor rms.
 
 **8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.**
 
@@ -102,3 +104,14 @@ No coinciden.
 
 Porque el valor medido con el osciloscopio solo representa el valor máximo que proporciona la fuente de voltaje alterna, mientras que el multímetro mide el voltaje rms, es decir, mide el valor del voltaje tomando en cuenta la idea de que la fuente fuera continua.
 
+# **CONCLUSIONES**
+
+*
+
+*
+
+# **BIBLIOGRAFÍA**
+
+* FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
+
+* BOYLESTAD, ROBERT L. Introducción al análisis de circuitos. PEARSON EDUCACIÓN, México, 2004
